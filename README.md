@@ -1,6 +1,6 @@
 # Library_README
 ### A program that was created for the libraries of SmallTownX, it includes a new electronic rental system. The program displays the many books that are offered to be borrowed by three libraries in the town.
- #### This program was created by Isabella Villareal and Mariana Lozano.
+ #### This program was created by Isabel Villareal and Mariana Lozano.
 
 #### Description: 
 The program we created uses the Library and Book classes that were provided at the beginning. It includes all the books from the Catalog File to allow the user a variety of book genres and choices. 
